@@ -1,8 +1,8 @@
-Hi, my name is Patrick Ferreira Carvalho.
-I'm 16 years old.
-I currently live in Almenara/MG in Brazil. 
-I study at IFNMG campus Almenara and i'm cursing Computing. I learned C leanguage and now i'm studying C++ and Java.
-I hope to became an Developer graduated in System Analysis and Development and post graduated in Computer Engineering.
+- Hi, my name is Patrick Ferreira Carvalho.
+- I'm 16 years old.
+- I currently live in Almenara/MG in Brazil. 
+- I study at IFNMG campus Almenara and i'm cursing Computing. I learned C leanguage and now i'm studying C++ and Java.
+- I hope to became an Developer graduated in System Analysis and Development and post graduated in Computer Engineering.
 
 
 <!---
