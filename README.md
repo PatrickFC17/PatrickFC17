@@ -1,7 +1,9 @@
-- Hi, I’m  Patrick Ferreira Carvalho
-- I’m interested in programming and all areas of technology.
-- I’m currently learning C++ and Java.
-- How to reach me - e-mail: patrick651265@gmail.com.
+Hi, my name is Patrick Ferreira Carvalho.
+I'm 16 years old.
+I currently live in Almenara/MG in Brazil. 
+I study at IFNMG campus Almenara and i'm cursing Computing. I learned C leanguage and now i'm studying C++ and Java.
+I hope to became an Developer graduated in System Analysis and Development and post graduated in Computer Engineering.
+
 
 <!---
 PatrickFC17/PatrickFC17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
